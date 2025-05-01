@@ -8,6 +8,7 @@ public class TestGitClass {
 		System.out.println("Hello Command Line");
 
 		System.out.println("Manorama");
+		System.out.println("Hello TestGit");
 	}
 
 }
